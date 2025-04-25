@@ -34,3 +34,5 @@ The chatbot’s effectiveness depends on the quality of its training data. Inacc
 
 ### Conclusion
 Developing an AI chatbot with NLP requires addressing challenges related to language understanding, context retention, ambiguity resolution, bias mitigation, sentiment analysis, security, and data quality. By implementing advanced NLP techniques, refining training data, and ensuring ethical AI principles, developers can create intelligent, user-friendly chatbots capable of meaningful conversations.
+#### OUTPUT
+![Image](https://github.com/user-attachments/assets/1eaf3ce5-36f2-4125-a255-b09ea1686335)
